@@ -5,8 +5,8 @@ description: description
 url: https://jimena-medinarubio.github.io/
 baseurl: ''
 email: j.medinarubio@uu.nl
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/me.png
+cover: https://jimena-medinarubio.github.io/img/og.png
+logo: https://jimena-medinarubio.github.io/img/emojis/me.png
 resume: [cv]
 social:
   - title: email
